@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently attending Gachon University. 
-🌱 I’m currently learning Software. 
-📫 How to reach me: wltnsw326@gachon.ac.kr 
+🔭 I’m currently attending Gachon University.  
+🌱 I’m currently learning Software.  
+📫 How to reach me: wltnsw326@gachon.ac.kr  
 <!--
 **wltnid326/wltnid326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
