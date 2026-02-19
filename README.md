@@ -3,17 +3,23 @@
 🔭 I’m currently attending Gachon University.  
 🌱 I’m currently learning Software.  
 📫 How to reach me: wltnsw326@gachon.ac.kr  
-<!--
-**wltnid326/wltnid326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏥 Medical Image Analysis
+
+의료 영상 분석 및 3D 시각화 연구
+
+### 🔬 Projects
+
+**[Pelvic Fracture ROI Tool](https://github.com/wltnid326/pelvic-fracture-roi-tool-portfolio)**
+- 3D Interactive ROI Editor
+- CBM Visualization
+- Python | VTK | SimpleITK
+
+### 🛠️ Tech Stack
+
+`Python` `VTK` `SimpleITK` `DICOM`
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wltnid326&show_icons=true&theme=radical)
