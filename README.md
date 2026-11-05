@@ -1,3 +1,11 @@
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wltnid326&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/wltnid326"
+  width="600"
+  height="300"
+/>
+</a>
+
 ### Hi there 👋
 
 🔭 I’m currently attending Gachon University.  
@@ -23,3 +31,4 @@
 ### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wltnid326&show_icons=true&theme=radical)
+
